@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-recap-5/static/css/main.0428d58c.css",
+    "main.js": "/react-recap-5/static/js/main.267ec07f.js",
+    "static/media/logo.png": "/react-recap-5/static/media/logo.d6c42622bddf5a8e7575.png",
+    "index.html": "/react-recap-5/index.html",
+    "main.0428d58c.css.map": "/react-recap-5/static/css/main.0428d58c.css.map",
+    "main.267ec07f.js.map": "/react-recap-5/static/js/main.267ec07f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0428d58c.css",
+    "static/js/main.267ec07f.js"
+  ]
+}
