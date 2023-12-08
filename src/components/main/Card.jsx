@@ -1,16 +1,15 @@
-const Card = (props) => {
-  console.log("ne geliyor", props);
+const Card = ({ title, date, image, desc }) => {
   return (
     <div className="cards">
       <div className="title">
-        <h1>title</h1>
+        <h1>{title}</h1>
       </div>
       <div className="date">
-        <h2>date</h2>
+        <h2>{date}</h2>
       </div>
-      <img src="" alt="" />
+      <img src={image} alt="" />
       <div className="card-over">
-        <p>description</p>
+        <p>{desc}</p>
       </div>
     </div>
   );
